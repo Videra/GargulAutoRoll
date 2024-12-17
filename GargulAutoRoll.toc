@@ -1,8 +1,8 @@
 ## Interface: 11403
-## Title: GargulAutoRoll |c00967FD2v3.7|r
+## Title: GargulAutoRoll |c00967FD2vv3.8|r
 ## Notes: Set up rules to automatically roll MS/OS on Gargul rolling calls.
 ## Author: Daga_WildGrowth
-## Version: 3.7
+## Version: v3.8
 ## DefaultState: enabled
 ## SavedVariablesPerCharacter: GargulAutoRollDB
 ## X-Curse-Project-ID: 1125801

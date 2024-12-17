@@ -46,6 +46,7 @@ GargulAutoRoll.Items.SoD = {
         235046, -- Imperial Qiraji Armaments
     },
     ["Fankriss the Unyielding"] = {
+        233371, -- Qiraji Bindings of Sovereignty
         233585, -- Ancient Qiraji Ripper
         234650, -- Ancient Qiraji Ripper (Void Touched)
         233586, -- Barb of the Sand Reaver
@@ -66,6 +67,7 @@ GargulAutoRoll.Items.SoD = {
     ["Viscidus"] = {
         233369, -- Qiraji Bindings of Dominance
         233370, -- Qiraji Bindings of Command
+        233371, -- Qiraji Bindings of Sovereignty
         233598, -- Slime-coated Leggings
         233599, -- Sharpened Silithid Femur
         234979, -- Sharpened Silithid Femur (Void Touched)
@@ -80,6 +82,7 @@ GargulAutoRoll.Items.SoD = {
     ["Princess Huhuran"] = {
         233369, -- Qiraji Bindings of Dominance
         233370, -- Qiraji Bindings of Command
+        233371, -- Qiraji Bindings of Sovereignty
         233605, -- Huhuran's Stinger
         234980, -- Huhuran's Stinger (Void Touched)
         233606, -- Cloak of the Golden Hive
@@ -92,6 +95,8 @@ GargulAutoRoll.Items.SoD = {
     },
     ["Twin Emperors"] = {
         20887, -- Vek'lor's Diadem
+        233365, -- Intact Viscera
+        233367, -- Intact Peritoneum
         233368, -- Intact Entrails
         233611, -- Boots of Epiphany
         233612, -- Qiraji Execution Bracers
@@ -110,6 +115,8 @@ GargulAutoRoll.Items.SoD = {
         235046, -- Imperial Qiraji Armaments
     },
     ["Ouro"] = {
+        233365, -- Intact Viscera
+        233367, -- Intact Peritoneum
         233368, -- Intact Entrails
         233625, -- Burrower Bracers
         233624, -- Don Rigoberto's Lost Hat
@@ -477,14 +484,14 @@ GargulAutoRoll.Items.SoD = {
             20869, -- Amber Idol
             20870, -- Jasper Idol
             20871, -- Obsidian Idol
-            20874, -- Bronze Scarab
-            20875, -- Red Scarab
-            20876, -- Blue Scarab
-            20877, -- Black Scarab
-            20878, -- Yellow Scarab
-            20879, -- Green Scarab
-            20881, -- White Scarab
-            20882, -- Crystal Scarab
+            20874, -- Idol of the Sun
+            20875, -- Idol of Night
+            20876, -- Idol of Death
+            20877, -- Idol of the Sage
+            20878, -- Idol of Rebirth
+            20879, -- Idol of Life
+            20881, -- Idol of Strife
+            20882, -- Idol of War
             21156, -- Scarab Bag
             21762, -- Scarab Coffer Key
         }

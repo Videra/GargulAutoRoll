@@ -1,3 +1,6 @@
+v3.8
+- Added more AQ Items to the local database
+
 v3.7
 - Added more AQ Items to the local database
 
