@@ -1,0 +1,22 @@
+## Interface: 11403
+## Title: GargulAutoRoll |c00967FD2v3.7|r
+## Notes: Set up rules to automatically roll MS/OS on Gargul rolling calls.
+## Author: Daga_WildGrowth
+## Version: 3.7
+## DefaultState: enabled
+## SavedVariablesPerCharacter: GargulAutoRollDB
+## X-Curse-Project-ID: 1125801
+## X-License: GNU
+## OptionalDeps: LibDataBroker-1.1, LibDBIcon-1.0
+
+Dependencies\Utils.lua
+
+GargulAutoRoll.lua
+
+Modules\Commands.lua
+Modules\Interface.lua
+Modules\Minimap.lua
+Modules\Items.lua
+Modules\AtlasLoot.lua
+Modules\Tokens.lua
+Modules\Search.lua
